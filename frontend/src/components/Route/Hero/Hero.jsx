@@ -15,13 +15,12 @@ const Hero = () => {
         <h1
           className={`text-[35px] leading-[1.2] 800px:text-[60px] text-[#3d3a3a] font-[600] capitalize`}
         >
-          Best Collection for <br /> home Decoration
+          Discover The Essence Of Elegance:
+          Shop The Finest Selection
+          At Ecomm Web
         </h1>
         <p className="pt-5 text-[16px] font-[Poppins] font-[400] text-[#000000ba]">
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Beatae,
-          assumenda? Quisquam itaque <br /> exercitationem labore vel, dolore
-          quidem asperiores, laudantium temporibus soluta optio consequatur{" "}
-          <br /> aliquam deserunt officia. Dolorum saepe nulla provident.
+        Feel free to modify it according to your preferences and branding. Remember, the H1 heading should convey the unique selling point or the overall theme of your website while being concise and attention-grabbing.
         </p>
         <Link to="/products" className="inline-block">
             <div className={`${styles.button} mt-5`}>
