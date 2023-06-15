@@ -15,9 +15,7 @@ const Hero = () => {
         <h1
           className={`text-[35px] leading-[1.2] 800px:text-[60px] text-[#3d3a3a] font-[600] capitalize`}
         >
-          Discover The Essence Of Elegance:
-          Shop The Finest Selection
-          At Ecomm Web
+          Discover The Essence Of Elegance: Shop The Finest Selection At Ecomm Web
         </h1>
         <p className="pt-5 text-[16px] font-[Poppins] font-[400] text-[#000000ba]">
         Feel free to modify it according to your preferences and branding. Remember, the H1 heading should convey the unique selling point or the overall theme of your website while being concise and attention-grabbing.
