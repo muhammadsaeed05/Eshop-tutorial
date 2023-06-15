@@ -12,14 +12,6 @@ export const navItems = [
       title: "Products",
       url: "/products",
     },
-    {
-      title: "Events",
-      url: "/events",
-    },
-    {
-      title: "FAQ",
-      url: "/faq",
-    },
   ];
   
   // branding data
@@ -595,16 +587,6 @@ export const navItems = [
     {
       name: "About us",
       link: "/about"
-    },
-    {
-      name: "Careers",
-      link: "/carrers"
-    },
-    {
-      name: "Store Locations",
-    },
-    {
-      name: "Our Blog",
     },
     {
       name: "Reviews",
